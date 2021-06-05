@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spingarr">
+        <item>软件2036</item>
+        <item>软件2076</item>
+        <item>软件2058</item>
+        <item>软件2034</item>
+    </string-array>
+
+</resources>

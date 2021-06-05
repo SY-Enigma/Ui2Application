@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomApplication</string>
+    <string-array name="student_arr">
+        <item>软件2036</item>
+        <item>软件2026</item>
+        <item>软件2016</item>
+        <item>软件2058</item>
+    </string-array>
+</resources>

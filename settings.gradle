@@ -1,0 +1,8 @@
+include ':homework3'
+include ':home'
+include ':room'
+include ':sqlLsi'
+include ':mysql'
+include ':Feli'
+include ':app'
+rootProject.name = "Ui2Application"
