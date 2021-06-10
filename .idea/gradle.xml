@@ -12,10 +12,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Feli" />
+            <option value="$PROJECT_DIR$/Servic" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/home" />
             <option value="$PROJECT_DIR$/homework3" />
             <option value="$PROJECT_DIR$/mysql" />
+            <option value="$PROJECT_DIR$/provider" />
             <option value="$PROJECT_DIR$/room" />
             <option value="$PROJECT_DIR$/sqlLsi" />
           </set>
